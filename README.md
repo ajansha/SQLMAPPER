@@ -11,7 +11,7 @@ Navigate to the directory: cd SQLMAPPER
 Run the tool: bash./SQLMAPPER.sh
 
 # License:
-SQLMAPPER [MIT](https://github.com/ajansha/SQLMAPPER/blob/main/LICENSE)
+SQLMAPPER is distributed under  [MIT](https://github.com/ajansha/SQLMAPPER/blob/main/LICENSE)
 
 # Disclaimer:
 This tool is intended for authorized security assessments and penetration testing activities only. Users should ensure compliance with applicable laws and regulations before using the tool.
